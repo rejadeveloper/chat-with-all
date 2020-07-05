@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585657613607",
+    "firebase_url": "https://chatwith-6c7e8.firebaseio.com",
+    "project_id": "chatwith-6c7e8",
+    "storage_bucket": "chatwith-6c7e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585657613607:android:5d6d67d6772bf932f97d02",
+        "android_client_info": {
+          "package_name": "com.example.chatwith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585657613607-b1earerjf8gd4k4cakcb793lsv30odf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatwith",
+            "certificate_hash": "91c9589d010e096fc9459bc3fcb4121c47dca838"
+          }
+        },
+        {
+          "client_id": "585657613607-7g8potra58vn8063o6fmeg6ga436dp8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrsauaE_-SP05nJdBOFx5lmqNTLiQ6qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585657613607-7g8potra58vn8063o6fmeg6ga436dp8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
